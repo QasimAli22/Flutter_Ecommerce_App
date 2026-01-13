@@ -33,8 +33,8 @@ A fully functional E-commerce mobile application built using **Flutter**. This p
 
 - **Framework**: [Flutter](https://flutter.dev/)
 - **Language**: [Dart](https://dart.dev/)
-- **State Management**: Provider / GetX / Bloc *(Select the one you used)*
-- **Backend/API**: Firebase / REST API / DummyJSON *(Select the one you used)*
+- **State Management**: Provider
+- **Backend/API**: Firebase
 - **Icons**: Cupertino Icons, FontAwesome
 - **Architecture**: MVC / MVVM
 
