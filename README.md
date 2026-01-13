@@ -13,7 +13,7 @@ A fully functional E-commerce mobile application built using **Flutter**. This p
 
 | Home Screen | Product Details | Cart Page |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/home.png" width="200" alt="Home"> | <img src="assets/screenshots/details.png" width="200" alt="Details"> | <img src="assets/screenshots/cart.png" width="200" alt="Cart"> |
+| <img src="assets/screenshots/home_screen.png" width="200" alt="Home"> | <img src="assets/screenshots/categorires.png" width="200" alt="Details"> | <img src="assets/screenshots/cart.png" width="200" alt="Cart"> |
 
 *(Note: Upload your screenshots to an `assets/screenshots` folder or replace the links above with your image URLs)*
 
